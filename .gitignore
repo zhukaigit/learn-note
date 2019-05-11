@@ -1,0 +1,7 @@
+# 注意："target/"表示忽略所有target目录下的所有文件，"/target/"表示忽略与.git同级的target目录下所有文件
+target/
+bin/
+.settings
+.idea
+*.iml
+.DS_Store
